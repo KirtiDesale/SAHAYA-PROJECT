@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72557536199",
+    "project_id": "sahayya-df171",
+    "storage_bucket": "sahayya-df171.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72557536199:android:8adba4fe42588c12adefe2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVk2M3QY23eljCgs40mmKJ3VPS1vnoWAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72557536199:android:868e3603768d49eaadefe2",
+        "android_client_info": {
+          "package_name": "com.example.sahayya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVk2M3QY23eljCgs40mmKJ3VPS1vnoWAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
